@@ -37,7 +37,7 @@
     "output": {
         "result": {
             "type": "string",
-            "description": "The generated text.",
+            "description": "The generated text",
             "path": "outputs"
         }
     }
